@@ -8,11 +8,8 @@ Flixster is an app that allows users to browse movies from the [The Movie Databa
 
 ## Flixster Part 1
 
-### User Stories
-`TODO://` In the **User Stories section below**, add an `x` in the `-[ ]` like this `- [x]` for any user story you complete. (🚫 Remove this paragraph after after checking off completed user stories)
-
 #### REQUIRED (10pts)
-- [ ] (10pts) User can view a list of movies (title, poster image, and overview) currently playing in theaters from the Movie Database API.
+- [x] (10pts) User can view a list of movies (title, poster image, and overview) currently playing in theaters from the Movie Database API.
 
 #### BONUS
 - [ ] (2pts) Views should be responsive for both landscape/portrait mode.
@@ -24,12 +21,13 @@ Flixster is an app that allows users to browse movies from the [The Movie Databa
 - [ ] (2pts) For popular movies (i.e. a movie voted for more than 5 stars), the full backdrop image is displayed. Otherwise, a poster image, the movie title, and overview is listed. Use Heterogenous RecyclerViews and use different ViewHolder layout files for popular movies and less popular ones.
 
 ### App Walkthough GIF
-`TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
 
-<img src="YOUR_GIF_URL_HERE" width=250><br>
+
+![flix](https://user-images.githubusercontent.com/76986911/155900822-385fd650-fc1a-463e-9e11-b312663d5782.gif)
 
 ### Notes
-Describe any challenges encountered while building the app.
+
+This App development was difficult to make due to my inexperience with the kotlin syntaxt and also my inexperience with Andriod Studio IDE. I had constantly ran into errors while working with the coding portion of this app, but visually, it was a pretty smooth process. I truly enjoy the drag and drop nature of the IDE. 
 
 ### Open-source libraries used
 
