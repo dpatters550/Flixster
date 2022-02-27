@@ -27,7 +27,7 @@ Flixster is an app that allows users to browse movies from the [The Movie Databa
 
 ### Notes
 
-This App development was difficult to make due to my inexperience with the kotlin syntaxt and also my inexperience with Andriod Studio IDE. I had constantly ran into errors while working with the coding portion of this app, but visually, it was a pretty smooth process. I truly enjoy the drag and drop nature of the IDE. 
+This App development was difficult to make due to my inexperience with the kotlin syntax and also my inexperience with Andriod Studio IDE. I had constantly ran into errors while working with the coding portion of this app, but visually, it was a pretty smooth process. I truly enjoy the drag and drop nature of the IDE. 
 
 ### Open-source libraries used
 
