@@ -23,13 +23,11 @@ Flixster is an app that allows users to browse movies from the [The Movie Databa
 
 ### App Walkthough GIF
 
-`TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
-
-<img src="YOUR_GIF_URL_HERE" width=250><br>
+![flix2](https://user-images.githubusercontent.com/76986911/156866192-27d42ad0-83c8-44a7-ab6b-a77cb0127937.gif)
 
 ### Notes
 
-Describe any challenges encountered while building the app.
+The development of the second part of this app was slowed due to Android Studio emulator being uncooperative. Also, I mistakenly put a number instead of a letter in a important URL link that created a lot of fustration on my end.
 
 ## Open-source libraries used
 - [Android Async HTTP](https://github.com/codepath/CPAsyncHttpClient) - Simple asynchronous HTTP requests with JSON parsing
